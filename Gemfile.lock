@@ -45,13 +45,21 @@ GEM
       msgpack (~> 1.0)
     builder (3.2.3)
     byebug (11.0.1)
+<<<<<<< HEAD
     capybara (3.20.2)
+=======
+    capybara (3.20.1)
+>>>>>>> 7c32d4f88221ece04ad655d5b85d4f10f0ec20cd
       addressable
       mini_mime (>= 0.1.3)
       nokogiri (~> 1.8)
       rack (>= 1.6.0)
       rack-test (>= 0.6.3)
       regexp_parser (~> 1.2)
+<<<<<<< HEAD
+=======
+      uglifier
+>>>>>>> 7c32d4f88221ece04ad655d5b85d4f10f0ec20cd
       xpath (~> 3.2)
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
@@ -66,7 +74,11 @@ GEM
     diff-lcs (1.3)
     erubis (2.7.0)
     execjs (2.7.0)
+<<<<<<< HEAD
     ffi (1.11.1)
+=======
+    ffi (1.11.0)
+>>>>>>> 7c32d4f88221ece04ad655d5b85d4f10f0ec20cd
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     i18n (1.6.0)
